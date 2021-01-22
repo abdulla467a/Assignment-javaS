@@ -1,4 +1,8 @@
-//kilometer to meter
+//https://github.com/abdulla467a/Assignment-javaS/tree/main
+
+
+
+//Number 1---kilometer to meter
 
 function kilometerTOMeter(kilometer){
 var meter =kilometer*1000;
@@ -10,7 +14,7 @@ return meter;
 
 
 
-//budget_calculator
+//Number 2---budget_calculator
 
 function budgetCalculator(watch,mobile,laptop) 
 {
@@ -29,7 +33,7 @@ if (watch<0 || mobile<0 || laptop<0) {
 
 
 
-//hotel_cost
+//Number 3---hotel_cost
 function hotelCost(stay){
 var first_shift=0;
 var second_shift=0;
@@ -57,7 +61,7 @@ return total;
 }
 
 
-//megaFriend
+//Number 4--- megaFriend
 
 
 var friends = ['ajad','labib','khalil','Mim  khai dim','siam','rana','sohan'];
@@ -75,6 +79,6 @@ if(element.length>maxWord.length){
 }
 return maxWord;
 }
-console.log(biggestName);
+
 
 
