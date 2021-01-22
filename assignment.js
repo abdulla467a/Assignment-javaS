@@ -1,5 +1,4 @@
-//https://github.com/abdulla467a/Assignment-javaS/tree/main
-
+//https://github.com/abdulla467a/Assignment-javaS
 
 
 //Number 1---kilometer to meter
